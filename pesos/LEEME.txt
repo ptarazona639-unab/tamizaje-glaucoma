@@ -1,0 +1,8 @@
+Aquí va el archivo de pesos de la red de segmentación:
+
+    TrainAll_Maghrabi84_50iteration_SWIN.pth.tar   (unos 430 MB)
+
+Fuente: Bazi et al. (2024), espacio de Hugging Face BigData-KSU/Glaucoma-Detection
+https://huggingface.co/spaces/BigData-KSU/Glaucoma-Detection/resolve/main/TrainAll_Maghrabi84_50iteration_SWIN.pth.tar
+
+No se incluye en el repositorio por su tamaño. Si falta, la aplicación ofrece descargarlo o buscarlo en el computador.
